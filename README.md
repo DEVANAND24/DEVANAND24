@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DEVANAND24
-- 👀 I’m interested in web devoloping
+- 👀 I’m interested in web development 
 - 🌱 I’m currently learning Node.js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me raghavdas90057@gmail.com
